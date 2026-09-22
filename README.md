@@ -1,5 +1,8 @@
 <div align="center">
 
+
+![cover](assets/cover.png)
+
 # session-task-audit
 
 **跨会话盘点：上下文压缩后，直接查 state.db 把没干完的活捞出来。**
